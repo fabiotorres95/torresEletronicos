@@ -1,0 +1,10 @@
+{
+  "appId": "com.torres.eletronicos",
+  "appName": "Torres Eletrônicos",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://fabiotorres95.github.io/torresEletronicos",
+    "cleartext": true
+  }
+}
